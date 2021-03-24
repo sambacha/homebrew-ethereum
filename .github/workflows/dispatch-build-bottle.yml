@@ -1,6 +1,7 @@
 name: Dispatch build bottle
 
 on:
+  push:
   workflow_dispatch:
     inputs:
       macos:
