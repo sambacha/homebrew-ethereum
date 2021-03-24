@@ -10,7 +10,7 @@ env:
   HOMEBREW_CHANGE_ARCH_TO_ARM: 1
 jobs:
   tap_syntax:
-    if: github.repository == 'ethereum/homebrew-ethereum'
+ #   if: github.repository == 'ethereum/homebrew-ethereum'
     runs-on: ubuntu-latest
     outputs:
       run-tests: ${{ steps.check-labels.outputs.result }}
