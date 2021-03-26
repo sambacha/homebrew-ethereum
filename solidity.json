@@ -1,0 +1,1972 @@
+{
+  "commit": "ef216efc8d14bb7a2e03675d4255f02f0d34a1e7",
+  "abbreviated_commit": "ef216ef",
+  "tree": "ab8a9b28010febbbff4275db316a29afeafd8ee0",
+  "abbreviated_tree": "ab8a9b2",
+  "parent": "34ad67b47f01027263e4cc8bffac927574552a97",
+  "abbreviated_parent": "34ad67b",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.8.3",
+  "sanitized_subject_line": "Solidity-0.8.3",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 23 Mar 2021 14:45:36 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Tue, 23 Mar 2021 14:45:36 +0100"
+  }
+},--
+{
+  "commit": "00b6374b63acaffd28d4f9c9546797bd9a9474fd",
+  "abbreviated_commit": "00b6374",
+  "tree": "64bd9e38d08f1bfba172608be58393b2d899a1f3",
+  "abbreviated_tree": "64bd9e3",
+  "parent": "6336a4467430285eab7d75845c884a7405fbca47",
+  "abbreviated_parent": "6336a44",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.8.2",
+  "sanitized_subject_line": "Solidity-0.8.2",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 2 Mar 2021 18:13:57 +0100"
+  },
+  "commiter": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Fri, 5 Mar 2021 15:23:07 +0000"
+  }
+},--
+{
+  "commit": "ac5c818e36c8c9bfff0bd8626fb212108e9240e8",
+  "abbreviated_commit": "ac5c818",
+  "tree": "27ff5919bc2eec360112b1e3a5f97c58acb40d90",
+  "abbreviated_tree": "27ff591",
+  "parent": "b58d0acfb0d85dab029b23f544a52e64aeb6ccc8",
+  "abbreviated_parent": "b58d0ac",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.8.1",
+  "sanitized_subject_line": "Solidity-0.8.1",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 27 Jan 2021 15:48:38 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Wed, 27 Jan 2021 15:48:38 +0100"
+  }
+},--
+{
+  "commit": "66f32c57ad47a57889815e11750e26cc32b9ea2a",
+  "abbreviated_commit": "66f32c5",
+  "tree": "d696c1af6edb927d62e05c8638cd77610c5ea03e",
+  "abbreviated_tree": "d696c1a",
+  "parent": "d1065e9837cfbe55b6bc4d86f5e50cbed9c6f66f",
+  "abbreviated_parent": "d1065e9",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.8.0.",
+  "sanitized_subject_line": "Solidity-0.8.0",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 16 Dec 2020 18:42:58 +0100"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 16 Dec 2020 19:35:44 +0100"
+  }
+},--
+{
+  "commit": "99e56755e078e7601b4c5b373d0c15f0cab947db",
+  "abbreviated_commit": "99e5675",
+  "tree": "2091f6c64fabc28a7a2b6698ca7d6f18b4544ae9",
+  "abbreviated_tree": "2091f6c",
+  "parent": "70364842dd0ad0ad1e8a1abd85f602abac67a039",
+  "abbreviated_parent": "7036484",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.7.6",
+  "sanitized_subject_line": "Solidity-0.7.6",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 16 Dec 2020 17:15:21 +0100"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 16 Dec 2020 17:15:21 +0100"
+  }
+},--
+{
+  "commit": "bcc239431982b183cc727bccf70df97852ea0abe",
+  "abbreviated_commit": "bcc2394",
+  "tree": "db958009279b4531096d385b11c02fe34d342b48",
+  "abbreviated_tree": "db95800",
+  "parent": "e362b582fa2768170902f836ca529c0b2953c9c2",
+  "abbreviated_parent": "e362b58",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.7.5",
+  "sanitized_subject_line": "Solidity-0.7.5",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 18 Nov 2020 20:06:01 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Wed, 18 Nov 2020 20:06:01 +0100"
+  }
+},--
+{
+  "commit": "08733cf255de5d0a79d211102f26e45707e2c12e",
+  "abbreviated_commit": "08733cf",
+  "tree": "0e51baf2759404cf167138c65695347a983b83ff",
+  "abbreviated_tree": "0e51baf",
+  "parent": "abac9c72ea3a423fdd68dd4beca1b0d350573ad7",
+  "abbreviated_parent": "abac9c7",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.7.4",
+  "sanitized_subject_line": "Solidity-0.7.4",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 19 Oct 2020 16:27:21 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Mon, 19 Oct 2020 16:27:21 +0200"
+  }
+},--
+{
+  "commit": "be3a3da828584fa058739187dfb43c650a6f85c3",
+  "abbreviated_commit": "be3a3da",
+  "tree": "f7c680891a1424b95fc65edb7f49797c377e04dc",
+  "abbreviated_tree": "f7c6808",
+  "parent": "bf53453cc8df7dfc00a2b464b0f52be816e9c654",
+  "abbreviated_parent": "bf53453",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.7.3",
+  "sanitized_subject_line": "Solidity-0.7.3",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 7 Oct 2020 18:56:04 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Wed, 7 Oct 2020 18:56:04 +0200"
+  }
+},--
+{
+  "commit": "2617d3626c418fa35f4303a7cd3fc730591cf1dd",
+  "abbreviated_commit": "2617d36",
+  "tree": "7beac5ea308d02fde8af71bafe3646b6e7f062f6",
+  "abbreviated_tree": "7beac5e",
+  "parent": "f318d4b81dd1108f186a24acdd026cb12057cb64",
+  "abbreviated_parent": "f318d4b",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.7.2",
+  "sanitized_subject_line": "Solidity-0.7.2",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 28 Sep 2020 21:51:29 +0200"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Thu, 1 Oct 2020 15:44:18 +0200"
+  }
+},--
+{
+  "commit": "65bc2f2b7759839d436b40c8dcb2a1fe4fa0070f",
+  "abbreviated_commit": "65bc2f2",
+  "tree": "2755f3c35072db0b68291acbc1223ed71ffb1bef",
+  "abbreviated_tree": "2755f3c",
+  "parent": "b860433a01a54fab29dab30d5e4d7ff6df8bb3d3",
+  "abbreviated_parent": "b860433",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.7.1",
+  "sanitized_subject_line": "Solidity-0.7.1",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 2 Sep 2020 16:30:57 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Wed, 2 Sep 2020 16:30:57 +0200"
+  }
+},--
+{
+  "commit": "f74ccbe175e5268ce68565c416504da55da2893a",
+  "abbreviated_commit": "f74ccbe",
+  "tree": "eec6f69de111a3d46c6a4256cf915755812345bc",
+  "abbreviated_tree": "eec6f69",
+  "parent": "d935b7db4d63fdc2e47bf24dc767d22ef81b7e22",
+  "abbreviated_parent": "d935b7d",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.7.0",
+  "sanitized_subject_line": "Solidity-0.7.0",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 28 Jul 2020 16:31:47 +0200"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 28 Jul 2020 16:52:11 +0200"
+  }
+},--
+{
+  "commit": "fcd4bc398a9a9ee2be32291100ca9e1dc75bf2cc",
+  "abbreviated_commit": "fcd4bc3",
+  "tree": "cc7dd4f6729fc2af06186f4288a82c6706efa831",
+  "abbreviated_tree": "cc7dd4f",
+  "parent": "1c67bcb218c679215a4fb24888240317a8ab111b",
+  "abbreviated_parent": "1c67bcb",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.6.12",
+  "sanitized_subject_line": "Solidity-0.6.12",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 22 Jul 2020 18:41:02 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Wed, 22 Jul 2020 18:41:02 +0200"
+  }
+},--
+{
+  "commit": "04a4fde41372ea8dd396c61af2de0c2458901404",
+  "abbreviated_commit": "04a4fde",
+  "tree": "53b0b859b0c2168bada69cba622a41652c9d01fa",
+  "abbreviated_tree": "53b0b85",
+  "parent": "1979d86c0ee8e3c0d0d76f56da21aba039f24cc9",
+  "abbreviated_parent": "1979d86",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.6.11",
+  "sanitized_subject_line": "Solidity-0.6.11",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 7 Jul 2020 18:46:57 +0200"
+  },
+  "commiter": {
+    "name": "Daniel Kirchner",
+    "email": "daniel@ekpyron.org",
+    "date": "Tue, 7 Jul 2020 22:37:01 +0200"
+  }
+},--
+{
+  "commit": "06d13a8499801dc3ea4f19b2d24ed2eeb3072ebb",
+  "abbreviated_commit": "06d13a8",
+  "tree": "552cc22bc557691d39736f82283c6043d12993ca",
+  "abbreviated_tree": "552cc22",
+  "parent": "efe0013f5eecc2f0c2ab618f8c65fb1e2fac2abe",
+  "abbreviated_parent": "efe0013",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.6.10",
+  "sanitized_subject_line": "Solidity-0.6.10",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Thu, 11 Jun 2020 20:22:25 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Thu, 11 Jun 2020 20:22:25 +0200"
+  }
+},--
+{
+  "commit": "6a03909f655e32451201e1d945f55d8fc828b0ef",
+  "abbreviated_commit": "6a03909",
+  "tree": "d31ff1730f9e4ab45e899918a49a43d056ba69f6",
+  "abbreviated_tree": "d31ff17",
+  "parent": "b6a0b14e79a5a2f4766e864666040dc8f6be7948",
+  "abbreviated_parent": "b6a0b14",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.6.9.",
+  "sanitized_subject_line": "Solidity-0.6.9",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Thu, 4 Jun 2020 18:17:30 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Thu, 4 Jun 2020 18:17:30 +0200"
+  }
+},--
+{
+  "commit": "16b4241f874f75fc0210fefc59de989e94476ae8",
+  "abbreviated_commit": "16b4241",
+  "tree": "8b68e18f7ccfcc637146ae7c52a2ce228f1bfa60",
+  "abbreviated_tree": "8b68e18",
+  "parent": "f91e20c11ef153f0fab683e7b0cf28704b01e00d",
+  "abbreviated_parent": "f91e20c",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.6.8.",
+  "sanitized_subject_line": "Solidity-0.6.8",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Thu, 14 May 2020 14:47:56 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Thu, 14 May 2020 14:47:56 +0200"
+  }
+},--
+{
+  "commit": "63447e492f6ad0ce0e7edf06cff4cae76765a370",
+  "abbreviated_commit": "63447e4",
+  "tree": "74d6dfdaedb9f2e672d67dc7c4ce32e9e622af16",
+  "abbreviated_tree": "74d6dfd",
+  "parent": "2339b5cf2cb2c1418300d1f84747b791ea174d78",
+  "abbreviated_parent": "2339b5c",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.6.7",
+  "sanitized_subject_line": "Solidity-0.6.7",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 4 May 2020 17:53:29 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Mon, 4 May 2020 17:53:29 +0200"
+  }
+},--
+{
+  "commit": "de827603ab5095abbe4edce3ef282e783fc352a2",
+  "abbreviated_commit": "de82760",
+  "tree": "9b4cbf0903ba93a47848bc2f25f3c19dd13b78f9",
+  "abbreviated_tree": "9b4cbf0",
+  "parent": "0696aa1c1ac6d25f5d3f1b2bf17985a939d9f981",
+  "abbreviated_parent": "0696aa1",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.6.6",
+  "sanitized_subject_line": "Solidity-0.6.6",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Thu, 9 Apr 2020 16:33:48 +0200"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Thu, 9 Apr 2020 16:40:56 +0200"
+  }
+},--
+{
+  "commit": "e0a679f0b0c8505afd1ac7ae6922dd7718a9f5e1",
+  "abbreviated_commit": "e0a679f",
+  "tree": "1039a775c074c9274729de828136c3af1fedd00f",
+  "abbreviated_tree": "1039a77",
+  "parent": "2ff5fa0e119511054a839505b38af4327ecb0575",
+  "abbreviated_parent": "2ff5fa0",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.6.5.",
+  "sanitized_subject_line": "Solidity-0.6.5",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 6 Apr 2020 16:11:09 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Mon, 6 Apr 2020 16:11:09 +0200"
+  }
+},--
+{
+  "commit": "623f56afff5bc0a407a6df74ccd27db5001f7b11",
+  "abbreviated_commit": "623f56a",
+  "tree": "040a448de091357c1bf7764f0b80331e83ab4544",
+  "abbreviated_tree": "040a448",
+  "parent": "77f87f5aabaa9e9179885fcba06607a4f7edf637",
+  "abbreviated_parent": "77f87f5",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.6.4",
+  "sanitized_subject_line": "Solidity-0.6.4",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 10 Mar 2020 20:19:39 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Tue, 10 Mar 2020 20:19:39 +0100"
+  }
+},--
+{
+  "commit": "c71df885e82745069ee900a963b7c475675b1ebe",
+  "abbreviated_commit": "c71df88",
+  "tree": "8e073db4d7d1bc4f02b9e75eb3391fc19d73b448",
+  "abbreviated_tree": "8e073db",
+  "parent": "5118fc2153ae90841e8f1de9cd3116d08ad72ae3",
+  "abbreviated_parent": "5118fc2",
+  "refs": "",
+  "encoding": "",
+  "subject": "Version 0.6.3",
+  "sanitized_subject_line": "Version-0.6.3",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 18 Feb 2020 21:33:19 +0100"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 18 Feb 2020 21:39:04 +0100"
+  }
+},--
+{
+  "commit": "34a312a4e74fc5ce2324dda413929d84855d822b",
+  "abbreviated_commit": "34a312a",
+  "tree": "e2bf13bf58ddec29f983b125008c89fda7aecd26",
+  "abbreviated_tree": "e2bf13b",
+  "parent": "5e2c3b9cdcfcea8fb6e967baab144c069d9e0f0a",
+  "abbreviated_parent": "5e2c3b9",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.6.2",
+  "sanitized_subject_line": "Solidity-0.6.2",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 27 Jan 2020 16:41:33 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Mon, 27 Jan 2020 16:41:33 +0100"
+  }
+},--
+{
+  "commit": "2b8f601db49dc63304dbc6389050ec8ba91f37ad",
+  "abbreviated_commit": "2b8f601",
+  "tree": "eecb43d0a11a3673d548e1ad077119a42bcedeb4",
+  "abbreviated_tree": "eecb43d",
+  "parent": "ffbcbababb2c573b134323850f1439a58133ea5c",
+  "abbreviated_parent": "ffbcbab",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.6.1",
+  "sanitized_subject_line": "Solidity-0.6.1",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Fri, 3 Jan 2020 13:20:10 +0100"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 15 Jan 2020 14:48:42 +0100"
+  }
+},--
+{
+  "commit": "50d89d24215e47e2e8608211ea73302fe444bfa8",
+  "abbreviated_commit": "50d89d2",
+  "tree": "c88af5b5f14652744c47562a30aaf95ecd62a6cb",
+  "abbreviated_tree": "c88af5b",
+  "parent": "01bf0654702aca207281f95bd7b2ba95d21adced",
+  "abbreviated_parent": "01bf065",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.6.0.",
+  "sanitized_subject_line": "Solidity-0.6.0",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 17 Dec 2019 23:58:00 +0100"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 18 Dec 2019 00:05:59 +0100"
+  }
+},--
+{
+  "commit": "4cc2959fa229a89f0a0b941717eb992455b43112",
+  "abbreviated_commit": "4cc2959",
+  "tree": "f4f07662d3910d525817fe0b647ae9ea5c91d70a",
+  "abbreviated_tree": "f4f0766",
+  "parent": "871d9be78fc6cb58505e045c42354d7e0f319f5d",
+  "abbreviated_parent": "871d9be",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.5.15.",
+  "sanitized_subject_line": "Solidity-0.5.15",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 17 Dec 2019 20:19:42 +0100"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 17 Dec 2019 20:19:42 +0100"
+  }
+},--
+{
+  "commit": "0e63dd13d32497854ddd07e6f852801d9addd2d5",
+  "abbreviated_commit": "0e63dd1",
+  "tree": "8fcc8cad6f342af23874893ff65924567ae9cf72",
+  "abbreviated_tree": "8fcc8ca",
+  "parent": "ad07fdbdc24e579a26b06a58571b918193190814",
+  "abbreviated_parent": "ad07fdb",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update hash.",
+  "sanitized_subject_line": "Update-hash",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 9 Dec 2019 18:26:00 +0100"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 9 Dec 2019 18:26:00 +0100"
+  }
+},--
+{
+  "commit": "ad07fdbdc24e579a26b06a58571b918193190814",
+  "abbreviated_commit": "ad07fdb",
+  "tree": "f09644d072d4720e441a4c3279855fc5e9869d9f",
+  "abbreviated_tree": "f09644d",
+  "parent": "c3b1ab5d441e5d61a34f9465ef4582f2d67a54ae",
+  "abbreviated_parent": "c3b1ab5",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.5.14.",
+  "sanitized_subject_line": "Solidity-0.5.14",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 9 Dec 2019 17:09:03 +0100"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 9 Dec 2019 17:37:46 +0100"
+  }
+},--
+{
+  "commit": "a13669cece6afc0fca4d2ffce99232044b0738f2",
+  "abbreviated_commit": "a13669c",
+  "tree": "a1648155555e29a09ffee53c06d70863bf70b04f",
+  "abbreviated_tree": "a164815",
+  "parent": "a41186d22ad0137352a3840b383df69708498e2f",
+  "abbreviated_parent": "a41186d",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update Solidity to 0.5.13",
+  "sanitized_subject_line": "Update-Solidity-to-0.5.13",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Thu, 14 Nov 2019 18:15:25 +0100"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Fri, 15 Nov 2019 00:03:27 +0100"
+  }
+},--
+{
+  "commit": "4d13060698e7f0cdac9ec24627b6485122b8f1b6",
+  "abbreviated_commit": "4d13060",
+  "tree": "9b1e79976e31a4a001e2c912bd90218147558ac2",
+  "abbreviated_tree": "9b1e799",
+  "parent": "dff1ca67f5b5de05963b4568cd1670ebcaf56abb",
+  "abbreviated_parent": "dff1ca6",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.5.12",
+  "sanitized_subject_line": "Solidity-0.5.12",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 1 Oct 2019 22:07:54 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Tue, 1 Oct 2019 22:07:54 +0200"
+  }
+},--
+{
+  "commit": "7fa7027f20cca27f76c679d0c5b35ee3c565f284",
+  "abbreviated_commit": "7fa7027",
+  "tree": "562c3d3bba4f5837ef82beb4e5ca30ec606b10e6",
+  "abbreviated_tree": "562c3d3",
+  "parent": "c1475ec7c04c205c046dc02b9f21487766ce16d4",
+  "abbreviated_parent": "c1475ec",
+  "refs": "",
+  "encoding": "",
+  "subject": "Version 0.5.11 of Solidity",
+  "sanitized_subject_line": "Version-0.5.11-of-Solidity",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 12 Aug 2019 23:45:12 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Mon, 12 Aug 2019 23:45:12 +0200"
+  }
+},--
+{
+  "commit": "8ebd4475a4beba6ca514af0bda4e891afec01794",
+  "abbreviated_commit": "8ebd447",
+  "tree": "294f147d6e6c427f3da503fc731fd132db2a8815",
+  "abbreviated_tree": "294f147",
+  "parent": "da83823da5d28a2c458175a285e8c6809b6d4255",
+  "abbreviated_parent": "da83823",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.5.10",
+  "sanitized_subject_line": "Solidity-0.5.10",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 25 Jun 2019 18:56:50 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Tue, 25 Jun 2019 18:56:50 +0200"
+  }
+},--
+{
+  "commit": "f5abd8d7a81e58baf6aa899ac186a0d3bb0db7be",
+  "abbreviated_commit": "f5abd8d",
+  "tree": "89528b30421064da3b29b36675055701a1800a90",
+  "abbreviated_tree": "89528b3",
+  "parent": "1fc6d492eb853afefee17efaa77507cee5e67d5d",
+  "abbreviated_parent": "1fc6d49",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.5.9",
+  "sanitized_subject_line": "Solidity-0.5.9",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 28 May 2019 20:41:48 +0200"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 28 May 2019 20:41:48 +0200"
+  }
+},--
+{
+  "commit": "3fdee3f4b28df9a62b8d5c89bfce8f1a24553e1a",
+  "abbreviated_commit": "3fdee3f",
+  "tree": "b49e9d76a876b8a1da6377d1a6853b4737f7dc8e",
+  "abbreviated_tree": "b49e9d7",
+  "parent": "aee4dbc5c2acf8b84f0f0a2287bb37f7ea6d4273",
+  "abbreviated_parent": "aee4dbc",
+  "refs": "",
+  "encoding": "",
+  "subject": "Version 0.5.8",
+  "sanitized_subject_line": "Version-0.5.8",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 30 Apr 2019 18:39:33 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Tue, 30 Apr 2019 18:39:33 +0200"
+  }
+},--
+{
+  "commit": "b346d963ce383bbeaf2f4047c65edea0ac860fbf",
+  "abbreviated_commit": "b346d96",
+  "tree": "2b67dd161f2901c10b4ae5eec8ce1b95ff16559f",
+  "abbreviated_tree": "2b67dd1",
+  "parent": "1900c98d8c0e93d21bd3b397ee820400c45f2308",
+  "abbreviated_parent": "1900c98",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.5.7",
+  "sanitized_subject_line": "Solidity-0.5.7",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 26 Mar 2019 14:21:13 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Tue, 26 Mar 2019 14:21:13 +0100"
+  }
+},--
+{
+  "commit": "1ecf6c60875740133ee51f6167aef9a4f05986e7",
+  "abbreviated_commit": "1ecf6c6",
+  "tree": "410f4b9fa75569225a076eb668f1a55c47a0a65c",
+  "abbreviated_tree": "410f4b9",
+  "parent": "55568b5f461528632199832b502362efc766dfb1",
+  "abbreviated_parent": "55568b5",
+  "refs": "",
+  "encoding": "",
+  "subject": "Version 0.5.6",
+  "sanitized_subject_line": "Version-0.5.6",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 13 Mar 2019 18:25:43 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Wed, 13 Mar 2019 18:25:43 +0100"
+  }
+},--
+{
+  "commit": "9d22d80c375611a69f78a01190a981968070d3ea",
+  "abbreviated_commit": "9d22d80",
+  "tree": "f398d5aad9619e26785be8ed3316894797189b92",
+  "abbreviated_tree": "f398d5a",
+  "parent": "a7738e0a6ed8777637b2da86e19cc97e068a9a2d",
+  "abbreviated_parent": "a7738e0",
+  "refs": "",
+  "encoding": "",
+  "subject": "Updates to Solidity 0.5.5.",
+  "sanitized_subject_line": "Updates-to-Solidity-0.5.5",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Erik Kundt",
+    "email": "erik@ethereum.org",
+    "date": "Tue, 5 Mar 2019 17:04:12 +0100"
+  },
+  "commiter": {
+    "name": "Erik Kundt",
+    "email": "erik@ethereum.org",
+    "date": "Tue, 5 Mar 2019 17:04:12 +0100"
+  }
+},--
+{
+  "commit": "a2645750428cc17b1d9a3c07d8dba798346a385a",
+  "abbreviated_commit": "a264575",
+  "tree": "ec01adf29fff994b231426a91c561b03ed410e28",
+  "abbreviated_tree": "ec01adf",
+  "parent": "a5863363de650a0c20fb584209749a284d6619f9",
+  "abbreviated_parent": "a586336",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.5.4",
+  "sanitized_subject_line": "Solidity-0.5.4",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Erik Kundt",
+    "email": "erik@ethereum.org",
+    "date": "Tue, 12 Feb 2019 16:52:02 +0100"
+  },
+  "commiter": {
+    "name": "Erik Kundt",
+    "email": "erik@ethereum.org",
+    "date": "Tue, 12 Feb 2019 16:52:02 +0100"
+  }
+},--
+{
+  "commit": "e05aa38c0f26874ec36409a83d1dbf83424552a4",
+  "abbreviated_commit": "e05aa38",
+  "tree": "3c2ee0d8c7fdbfc7809e83f48fcf3119ef3b4228",
+  "abbreviated_tree": "3c2ee0d",
+  "parent": "2d4ea6bf846758a068ceb985c38cc97b7615f94b",
+  "abbreviated_parent": "2d4ea6b",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update Solidity version.",
+  "sanitized_subject_line": "Update-Solidity-version",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 22 Jan 2019 16:50:27 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Tue, 22 Jan 2019 16:50:27 +0100"
+  }
+},--
+{
+  "commit": "6f1c0da0edf30df83e674c258101dc4d15f580d1",
+  "abbreviated_commit": "6f1c0da",
+  "tree": "03bf5c7184945a5baf74c2e7a558835a6301466d",
+  "abbreviated_tree": "03bf5c7",
+  "parent": "ba3721481f80a206d43fe6e6669d3e31f9fc39d5",
+  "abbreviated_parent": "ba37214",
+  "refs": "",
+  "encoding": "",
+  "subject": "Version 0.5.2",
+  "sanitized_subject_line": "Version-0.5.2",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 19 Dec 2018 22:11:08 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Wed, 19 Dec 2018 22:11:08 +0100"
+  }
+},--
+{
+  "commit": "be6de9aee95083d3c6ef2e10825001dd63be3e08",
+  "abbreviated_commit": "be6de9a",
+  "tree": "78007838793977efda6d9c96a4884a59a43279c9",
+  "abbreviated_tree": "7800783",
+  "parent": "032d0b0d71839c360dd736a4242be36b9f0ad772",
+  "abbreviated_parent": "032d0b0",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update hash",
+  "sanitized_subject_line": "Update-hash",
+  "body": "It seems travis ran again and re-uploaded the same file. I checked the archives (still had the old one), only the timestamps are different.",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 4 Dec 2018 17:45:29 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Tue, 4 Dec 2018 17:45:29 +0100"
+  }
+},--
+{
+  "commit": "8e6c5a613cd822e92cb5a239f3ef7c8576b60d90",
+  "abbreviated_commit": "8e6c5a6",
+  "tree": "4bc7170c3e49e197b3993a8fd9c8b47f4d292fe2",
+  "abbreviated_tree": "4bc7170",
+  "parent": "853e67c13e7003b506b591341dea1cb961ca2d99",
+  "abbreviated_parent": "853e67c",
+  "refs": "",
+  "encoding": "",
+  "subject": "Version 0.5.1",
+  "sanitized_subject_line": "Version-0.5.1",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 3 Dec 2018 17:00:30 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Mon, 3 Dec 2018 17:00:30 +0100"
+  }
+},--
+{
+  "commit": "459aa28331a4cd64f26b0872a5f3688223cebf23",
+  "abbreviated_commit": "459aa28",
+  "tree": "881dccce6310387701889d97ce0efd87fbf6785f",
+  "abbreviated_tree": "881dccc",
+  "parent": "1c97634029e4c29920241c0890a26ce4b708bbf9",
+  "abbreviated_parent": "1c97634",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.5.0",
+  "sanitized_subject_line": "Solidity-0.5.0",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Tue, 13 Nov 2018 20:17:00 +0000"
+  },
+  "commiter": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Tue, 13 Nov 2018 20:17:00 +0000"
+  }
+},--
+{
+  "commit": "f26f126820e5f47c3ed7ec6d5e6e046707443d87",
+  "abbreviated_commit": "f26f126",
+  "tree": "c022497d02bde90e32d57b56f0f049a8e2010ba1",
+  "abbreviated_tree": "c022497",
+  "parent": "5b1c55f83b522a4cc222cb36c982efeaf0596d6b",
+  "abbreviated_parent": "5b1c55f",
+  "refs": "",
+  "encoding": "",
+  "subject": "Solidity 0.4.25",
+  "sanitized_subject_line": "Solidity-0.4.25",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Thu, 13 Sep 2018 22:18:20 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Thu, 13 Sep 2018 22:18:20 +0200"
+  }
+},--
+{
+  "commit": "9599ce8371d9de039988f89ed577460e58a0f56a",
+  "abbreviated_commit": "9599ce8",
+  "tree": "5174433bb8ad9cf44f734b114655b6703667a3e9",
+  "abbreviated_tree": "5174433",
+  "parent": "197476466a1a0817ec0c35c6812da432f1c0cc1f",
+  "abbreviated_parent": "1974764",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update Solidity for version 0.4.24",
+  "sanitized_subject_line": "Update-Solidity-for-version-0.4.24",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 16 May 2018 16:46:12 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Wed, 16 May 2018 16:46:12 +0200"
+  }
+},--
+{
+  "commit": "9c1da746bbfc9e60831d37d01436a41f4464f0e1",
+  "abbreviated_commit": "9c1da74",
+  "tree": "6f78cc0b0a0111935981316b94eb8898667d159c",
+  "abbreviated_tree": "6f78cc0",
+  "parent": "3ee80b9de4f042e0cefef3da9df916fb78c1c980",
+  "abbreviated_parent": "3ee80b9",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update solidity.rb",
+  "sanitized_subject_line": "Update-solidity.rb",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Thu, 19 Apr 2018 23:50:10 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Thu, 19 Apr 2018 23:50:10 +0200"
+  }
+},--
+{
+  "commit": "6fcdddcc601dc213f343dc74b01377df1d301001",
+  "abbreviated_commit": "6fcdddc",
+  "tree": "c5634f59bbe152e5aa704efc3aa98076f67c7a06",
+  "abbreviated_tree": "c5634f5",
+  "parent": "a73af6509775b4f60ed8e4e67faea66ba9b75d32",
+  "abbreviated_parent": "a73af65",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update solidity.rb",
+  "sanitized_subject_line": "Update-solidity.rb",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 17 Apr 2018 08:57:24 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Tue, 17 Apr 2018 08:57:24 +0200"
+  }
+},--
+{
+  "commit": "3181d3dfc2e17d02f2702baa7c96847e8b4b6875",
+  "abbreviated_commit": "3181d3d",
+  "tree": "817ef822d94c90473370b873f4b67989abf1b8be",
+  "abbreviated_tree": "817ef82",
+  "parent": "97ed02594f5bf162fe11cddd9738199e3054f7f1",
+  "abbreviated_parent": "97ed025",
+  "refs": "",
+  "encoding": "",
+  "subject": "Add ccache as depedency for Solidity",
+  "sanitized_subject_line": "Add-ccache-as-depedency-for-Solidity",
+  "body": "Due to a homebrew limitation it will always be detected and cannot be turned off.
+",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Geoffrey Hayes",
+    "email": "hayesgm@gmail.com",
+    "date": "Tue, 27 Mar 2018 12:28:22 -0700"
+  },
+  "commiter": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Wed, 28 Mar 2018 11:06:32 +0100"
+  }
+},--
+{
+  "commit": "edb17c86dfd83a8c07854e0b8d66b3cb17e1b027",
+  "abbreviated_commit": "edb17c8",
+  "tree": "225a5aa7f74290b2954ca43c1d95121f9e2aefcf",
+  "abbreviated_tree": "225a5aa",
+  "parent": "d6a5e87a52a3bcb99966455e13714ead11f52f04",
+  "abbreviated_parent": "d6a5e87",
+  "refs": "",
+  "encoding": "",
+  "subject": "Require z3 for solidity",
+  "sanitized_subject_line": "Require-z3-for-solidity",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Tue, 27 Mar 2018 11:11:25 +0100"
+  },
+  "commiter": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Tue, 27 Mar 2018 11:23:01 +0100"
+  }
+},--
+{
+  "commit": "0787f473f716d538aee133c83f4360eb8be5d543",
+  "abbreviated_commit": "0787f47",
+  "tree": "d1cf1c5470eef2b57c367bc1220c46a9a25c35f8",
+  "abbreviated_tree": "d1cf1c5",
+  "parent": "be8af166429ba38fe3eeb004e5afb3fd7008a790",
+  "abbreviated_parent": "be8af16",
+  "refs": "",
+  "encoding": "",
+  "subject": "Make sure ccache is disabled for solidity",
+  "sanitized_subject_line": "Make-sure-ccache-is-disabled-for-solidity",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Thu, 22 Mar 2018 01:42:24 +0000"
+  },
+  "commiter": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Thu, 22 Mar 2018 01:42:24 +0000"
+  }
+},--
+{
+  "commit": "be8af166429ba38fe3eeb004e5afb3fd7008a790",
+  "abbreviated_commit": "be8af16",
+  "tree": "d5ace110a5d08491d2ee0a764287a86f8b294d17",
+  "abbreviated_tree": "d5ace11",
+  "parent": "ec418fe24e2dcd701f44acbbe50e23ccf733e8d5",
+  "abbreviated_parent": "ec418fe",
+  "refs": "",
+  "encoding": "",
+  "subject": "Remove obsolete dependencies for solidity",
+  "sanitized_subject_line": "Remove-obsolete-dependencies-for-solidity",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Thu, 22 Mar 2018 00:29:25 +0000"
+  },
+  "commiter": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Thu, 22 Mar 2018 00:29:25 +0000"
+  }
+},--
+{
+  "commit": "ec418fe24e2dcd701f44acbbe50e23ccf733e8d5",
+  "abbreviated_commit": "ec418fe",
+  "tree": "ae7c020afdffa90ca8e0ba90f9f46b54b928eb8d",
+  "abbreviated_tree": "ae7c020",
+  "parent": "48fb80e54e8614f39cf34be8896c6ba947bbd1e3",
+  "abbreviated_parent": "48fb80e",
+  "refs": "",
+  "encoding": "",
+  "subject": "Do not compile tests (they are not installed anyway) for solidity",
+  "sanitized_subject_line": "Do-not-compile-tests-they-are-not-installed-anyway-for-solidity",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Thu, 22 Mar 2018 00:28:39 +0000"
+  },
+  "commiter": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Thu, 22 Mar 2018 00:28:39 +0000"
+  }
+},--
+{
+  "commit": "48fb80e54e8614f39cf34be8896c6ba947bbd1e3",
+  "abbreviated_commit": "48fb80e",
+  "tree": "caa138914c82c7fde5db094a0de1b87632309c5b",
+  "abbreviated_tree": "caa1389",
+  "parent": "70314d6cd077d2e6dd466a8932ed93064464737f",
+  "abbreviated_parent": "70314d6",
+  "refs": "",
+  "encoding": "",
+  "subject": "require(formula) is not required anymore",
+  "sanitized_subject_line": "require-formula-is-not-required-anymore",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Wed, 21 Mar 2018 20:34:52 +0000"
+  },
+  "commiter": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Thu, 22 Mar 2018 00:13:43 +0000"
+  }
+},--
+{
+  "commit": "70314d6cd077d2e6dd466a8932ed93064464737f",
+  "abbreviated_commit": "70314d6",
+  "tree": "f82534f1cce6ed63fccc4ce0776988cf6308286a",
+  "abbreviated_tree": "f82534f",
+  "parent": "48f557133d704cd048be11d7fc1f0a49bf722ba8",
+  "abbreviated_parent": "48f5571",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update version to 0.4.21",
+  "sanitized_subject_line": "Update-version-to-0.4.21",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Thu, 8 Mar 2018 09:49:44 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Thu, 8 Mar 2018 09:49:44 +0100"
+  }
+},--
+{
+  "commit": "76432c9aa279b6907e5b1323b9195f2681c30844",
+  "abbreviated_commit": "76432c9",
+  "tree": "ea28e1b6f452a520e3c354af1d48eeb8bfc7be0e",
+  "abbreviated_tree": "ea28e1b",
+  "parent": "b25fd7f44181cd7eb2f247586f26390ed4b90501",
+  "abbreviated_parent": "b25fd7f",
+  "refs": "",
+  "encoding": "",
+  "subject": "Version 0.4.20",
+  "sanitized_subject_line": "Version-0.4.20",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 14 Feb 2018 16:30:53 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Wed, 14 Feb 2018 16:30:53 +0100"
+  }
+},--
+{
+  "commit": "799d020069f92d714eb7d3070ff480ab9222c4f8",
+  "abbreviated_commit": "799d020",
+  "tree": "bdcbd4edb5361d44dc4196a56c877f6c2536f154",
+  "abbreviated_tree": "bdcbd4e",
+  "parent": "f8f22efd5eaa351d5073b0cb6cdbba13f55a20d6",
+  "abbreviated_parent": "f8f22ef",
+  "refs": "",
+  "encoding": "",
+  "subject": "Version 0.4.19.",
+  "sanitized_subject_line": "Version-0.4.19",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "U",
+  "signer": "GitHub (web-flow commit signing) <noreply@github.com>",
+  "signer_key": "4AEE18F83AFDEB23",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Fri, 1 Dec 2017 14:35:00 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Fri, 1 Dec 2017 14:35:00 +0100"
+  }
+},--
+{
+  "commit": "2aea171d7d6901b97d5f1f71bd07dd88ed5dfb42",
+  "abbreviated_commit": "2aea171",
+  "tree": "3e3f6007500a089faa07c09f1f6d8260ab829a42",
+  "abbreviated_tree": "3e3f600",
+  "parent": "a6c9e957943cffcce6fbb7ee357378ebf0b69f63",
+  "abbreviated_parent": "a6c9e95",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update solidity version to 0.4.18.",
+  "sanitized_subject_line": "Update-solidity-version-to-0.4.18",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 18 Oct 2017 16:11:02 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Wed, 18 Oct 2017 16:11:02 +0200"
+  }
+},--
+{
+  "commit": "5f4cdb83a82e5214ff9dc67b3f18df4981101d2b",
+  "abbreviated_commit": "5f4cdb8",
+  "tree": "36fb56f557382c56eaa54af676e082b0eab79928",
+  "abbreviated_tree": "36fb56f",
+  "parent": "dd3f47b1d8d356735f18fa7886dbad39f4ffa4d4",
+  "abbreviated_parent": "dd3f47b",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update Solidity to 0.4.17.",
+  "sanitized_subject_line": "Update-Solidity-to-0.4.17",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Fri, 22 Sep 2017 10:38:25 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Fri, 22 Sep 2017 10:38:25 +0200"
+  }
+},--
+{
+  "commit": "90cc8fe1057a13da252fce66773f53a894940e91",
+  "abbreviated_commit": "90cc8fe",
+  "tree": "14ffd68704e040c163342df91d9ad7c3be122065",
+  "abbreviated_tree": "14ffd68",
+  "parent": "22092fef49ef1c7f701db4f69ae28615ecad90a7",
+  "abbreviated_parent": "22092fe",
+  "refs": "",
+  "encoding": "",
+  "subject": "Typo.",
+  "sanitized_subject_line": "Typo",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Thu, 24 Aug 2017 23:40:30 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Thu, 24 Aug 2017 23:40:30 +0200"
+  }
+},--
+{
+  "commit": "22092fef49ef1c7f701db4f69ae28615ecad90a7",
+  "abbreviated_commit": "22092fe",
+  "tree": "e7575cfcf134992c4b6d70d9fa724b404ee27ae3",
+  "abbreviated_tree": "e7575cf",
+  "parent": "de1da16f7972a899fc8dd1f3f04299eced6f4312",
+  "abbreviated_parent": "de1da16",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update solidity.rb",
+  "sanitized_subject_line": "Update-solidity.rb",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Thu, 24 Aug 2017 23:39:50 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Thu, 24 Aug 2017 23:39:50 +0200"
+  }
+},--
+{
+  "commit": "de1da16f7972a899fc8dd1f3f04299eced6f4312",
+  "abbreviated_commit": "de1da16",
+  "tree": "04d8c11029ccf13729bb5087839ef0bad719a54d",
+  "abbreviated_tree": "04d8c11",
+  "parent": "7d88acbfae0ab3ce55beb514574e1f5edc06200a",
+  "abbreviated_parent": "7d88acb",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update solidity.rb",
+  "sanitized_subject_line": "Update-solidity.rb",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Wed, 9 Aug 2017 11:27:46 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Wed, 9 Aug 2017 11:27:46 +0200"
+  }
+},--
+{
+  "commit": "7d88acbfae0ab3ce55beb514574e1f5edc06200a",
+  "abbreviated_commit": "7d88acb",
+  "tree": "75ca3f3b04a47fdc7bd540fe98439e92b7167cd2",
+  "abbreviated_tree": "75ca3f3",
+  "parent": "abc0d27bae8101e3baee6aaca4ea76d5e9c7e93a",
+  "abbreviated_parent": "abc0d27",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update solidity.rb",
+  "sanitized_subject_line": "Update-solidity.rb",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 31 Jul 2017 17:26:43 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Mon, 31 Jul 2017 17:26:43 +0200"
+  }
+},--
+{
+  "commit": "feb030087dd5cfef843c5d59c466cefbc8d8006c",
+  "abbreviated_commit": "feb0300",
+  "tree": "e86f1bc82802ed5700b13f5ca97a5fa69e050613",
+  "abbreviated_tree": "e86f1bc",
+  "parent": "d4d6792610b4e533892d3ea28a86e6cfd51cfb9b",
+  "abbreviated_parent": "d4d6792",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update solidity formula to 0.4.13",
+  "sanitized_subject_line": "Update-solidity-formula-to-0.4.13",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Ulrich Petri",
+    "email": "ulo@ulo.pe",
+    "date": "Mon, 17 Jul 2017 17:43:21 +0200"
+  },
+  "commiter": {
+    "name": "Ulrich Petri",
+    "email": "ulo@ulo.pe",
+    "date": "Mon, 17 Jul 2017 17:43:21 +0200"
+  }
+},--
+{
+  "commit": "9054056b09cea83e502c596cdc2ae6e0e91ad9a0",
+  "abbreviated_commit": "9054056",
+  "tree": "353c83462f951b23e13b2c8794bbf6165a137f9b",
+  "abbreviated_tree": "353c834",
+  "parent": "2de22833e3182e68d16ee490e8a62f556a0c5a5f",
+  "abbreviated_parent": "2de2283",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update hash.",
+  "sanitized_subject_line": "Update-hash",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Fri, 5 May 2017 11:14:41 +0200"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Fri, 5 May 2017 11:14:41 +0200"
+  }
+},--
+{
+  "commit": "2de22833e3182e68d16ee490e8a62f556a0c5a5f",
+  "abbreviated_commit": "2de2283",
+  "tree": "e77505125e27af63d15a8531e29739f316c6832d",
+  "abbreviated_tree": "e775051",
+  "parent": "4cee07575dee1f8c207373792b61b7f1d1a57121",
+  "abbreviated_parent": "4cee075",
+  "refs": "",
+  "encoding": "",
+  "subject": "Update to Solidity 0.4.11",
+  "sanitized_subject_line": "Update-to-Solidity-0.4.11",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Thu, 4 May 2017 16:39:23 +0100"
+  },
+  "commiter": {
+    "name": "Alex Beregszaszi",
+    "email": "alex@rtfs.hu",
+    "date": "Thu, 4 May 2017 19:12:57 +0100"
+  }
+},--
+{
+  "commit": "cf3bef27ebca0b02e8a84587d8189ac4f3b5b652",
+  "abbreviated_commit": "cf3bef2",
+  "tree": "696bbe5c3897fe5e778b55c858c2ac00ca9c4dbc",
+  "abbreviated_tree": "696bbe5",
+  "parent": "717c848ae994a789ed85383ffd4a6a67eae88f5e",
+  "abbreviated_parent": "717c848",
+  "refs": "",
+  "encoding": "",
+  "subject": "Fix sha256 sum.",
+  "sanitized_subject_line": "Fix-sha256-sum",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 20 Mar 2017 12:09:29 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Mon, 20 Mar 2017 12:09:29 +0100"
+  }
+},--
+{
+  "commit": "b3b820b5f65ca1fa2f923607cb1ad043b36d7e15",
+  "abbreviated_commit": "b3b820b",
+  "tree": "c8689cdae906651ae1f142075abecd625a880565",
+  "abbreviated_tree": "c8689cd",
+  "parent": "9aef68ec431867a2007a512d4267332ca01318bb",
+  "abbreviated_parent": "9aef68e",
+  "refs": "tag: v0.4.10",
+  "encoding": "",
+  "subject": "Solidity update to 0.4.10",
+  "sanitized_subject_line": "Solidity-update-to-0.4.10",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "c@ethdev.com",
+    "date": "Wed, 15 Mar 2017 18:36:54 +0100"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "c@ethdev.com",
+    "date": "Wed, 15 Mar 2017 18:36:54 +0100"
+  }
+},--
+{
+  "commit": "8d77bba3c9a682b507d923b336bd61558e25d329",
+  "abbreviated_commit": "8d77bba",
+  "tree": "728033bca8cbdea02c13df58ddd23385af18189f",
+  "abbreviated_tree": "728033b",
+  "parent": "9984113c15850d4da7bea6f813c22fd7aad9c9ed",
+  "abbreviated_parent": "9984113",
+  "refs": "tag: v0.4.9",
+  "encoding": "",
+  "subject": "Update to version 0.4.9.",
+  "sanitized_subject_line": "Update-to-version-0.4.9",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Tue, 31 Jan 2017 20:54:25 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Tue, 31 Jan 2017 20:54:25 +0100"
+  }
+},--
+{
+  "commit": "77cce03da9f289e5a3ffe579840d3c5dc0a62717",
+  "abbreviated_commit": "77cce03",
+  "tree": "758567762ccfa1964dbe2fb0e06484c42bff7119",
+  "abbreviated_tree": "7585677",
+  "parent": "3c496722bca07b6da1dbe3a46bb82104d569d1ad",
+  "abbreviated_parent": "3c49672",
+  "refs": "tag: v0.4.8",
+  "encoding": "",
+  "subject": "Changes for 0.4.8",
+  "sanitized_subject_line": "Changes-for-0.4.8",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "chris@ethereum.org",
+    "date": "Mon, 16 Jan 2017 12:09:24 +0100"
+  },
+  "commiter": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "Mon, 16 Jan 2017 12:09:24 +0100"
+  }
+},--
+{
+  "commit": "f12e86bda923e85b62a88d91ef2e2d3420d6fe6b",
+  "abbreviated_commit": "f12e86b",
+  "tree": "06fe7499ee46d9dc5f5d7927bcfc6d9dd461f48b",
+  "abbreviated_tree": "06fe749",
+  "parent": "3ef211751bb961c9e292dcae7c872f1528ed6b28",
+  "abbreviated_parent": "3ef2117",
+  "refs": "tag: v0.4.4",
+  "encoding": "",
+  "subject": "Solidity version 0.4.4",
+  "sanitized_subject_line": "Solidity-version-0.4.4",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "chriseth",
+    "email": "c@ethdev.com",
+    "date": "Fri, 4 Nov 2016 10:10:36 +0100"
+  },
+  "commiter": {
+    "name": "chriseth",
+    "email": "c@ethdev.com",
+    "date": "Fri, 4 Nov 2016 10:10:36 +0100"
+  }
+},--
+{
+  "commit": "75684fd6612e51cbaa23c4b15b1692b0afebcad1",
+  "abbreviated_commit": "75684fd",
+  "tree": "600a8e35901a3091bc85055e76a6ba391c637476",
+  "abbreviated_tree": "600a8e3",
+  "parent": "b6d66938aded7d57c813a664318e37c1a74936fd",
+  "abbreviated_parent": "b6d6693",
+  "refs": "tag: v0.4.2",
+  "encoding": "",
+  "subject": "bump 0.4.2 to solidity",
+  "sanitized_subject_line": "bump-0.4.2-to-solidity",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "E",
+  "signer": "",
+  "signer_key": "E89356BB8D082F8C",
+  "author": {
+    "name": "zhangsoledad",
+    "email": "787953403@qq.com",
+    "date": "Sun, 18 Sep 2016 16:51:50 +0800"
+  },
+  "commiter": {
+    "name": "zhangsoledad",
+    "email": "787953403@qq.com",
+    "date": "Sun, 18 Sep 2016 16:51:50 +0800"
+  }
+},--
+{
+  "commit": "b6d66938aded7d57c813a664318e37c1a74936fd",
+  "abbreviated_commit": "b6d6693",
+  "tree": "ec2ff9c510042253c18cece6da8813b7c925ed01",
+  "abbreviated_tree": "ec2ff9c",
+  "parent": "b7e475eafed595e997087f6667fd3e1327a5a963",
+  "abbreviated_parent": "b7e475e",
+  "refs": "tag: v0.4.1, v0.4.1",
+  "encoding": "",
+  "subject": "bump 0.4.1 to solidity",
+  "sanitized_subject_line": "bump-0.4.1-to-solidity",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "E",
+  "signer": "",
+  "signer_key": "E89356BB8D082F8C",
+  "author": {
+    "name": "zhangsoledad",
+    "email": "787953403@qq.com",
+    "date": "Sun, 11 Sep 2016 15:49:24 +0800"
+  },
+  "commiter": {
+    "name": "zhangsoledad",
+    "email": "787953403@qq.com",
+    "date": "Sun, 11 Sep 2016 15:49:24 +0800"
+  }
+},--
+{
+  "commit": "1e00885690f0da597d9d50990575a8049e1dc552",
+  "abbreviated_commit": "1e00885",
+  "tree": "171d68197c1d737aa3a58034dfee51101add4c73",
+  "abbreviated_tree": "171d681",
+  "parent": "2ecaf41c850ee816765108ff509d8778d00af342",
+  "abbreviated_parent": "2ecaf41",
+  "refs": "",
+  "encoding": "",
+  "subject": "Updated Homebrew paths to new repository. Homebrew is currently broken.   This should get it healthier, and we can iterate from there.",
+  "sanitized_subject_line": "Updated-Homebrew-paths-to-new-repository",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Bob Summerwill",
+    "email": "bob@summerwill.net",
+    "date": "Sat, 20 Aug 2016 18:32:40 -0700"
+  },
+  "commiter": {
+    "name": "Bob Summerwill",
+    "email": "bob@summerwill.net",
+    "date": "Sat, 20 Aug 2016 18:32:40 -0700"
+  }
+},--
+{
+  "commit": "e87ddd029fd59f1780707cf68435d6fae5420b2c",
+  "abbreviated_commit": "e87ddd0",
+  "tree": "ba406992f789d941ce2f9760259fdfa6c555a0cf",
+  "abbreviated_tree": "ba40699",
+  "parent": "29634ed0f0127383761ae3fda18c8a60fed42cae",
+  "abbreviated_parent": "29634ed",
+  "refs": "",
+  "encoding": "",
+  "subject": "Add formula for solidity 0.3.6",
+  "sanitized_subject_line": "Add-formula-for-solidity-0.3.6",
+  "body": "",
+  "commit_notes": "",
+  "verification_flag": "N",
+  "signer": "",
+  "signer_key": "",
+  "author": {
+    "name": "Alex Rea",
+    "email": "git@area.io",
+    "date": "Mon, 15 Aug 2016 17:22:37 +0100"
+  },
+  "commiter": {
+    "name": "Alex Rea",
+    "email": "git@area.io",
+    "date": "Mon, 15 Aug 2016 17:22:37 +0100"
+  }
+},--

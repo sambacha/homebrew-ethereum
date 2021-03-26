@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 #------------------------------------------------------------------------------
 # solidity.rb
 #
@@ -14,24 +16,24 @@
 #------------------------------------------------------------------------------
 
 class SolidityAT6 < Formula
-  desc "The Solidity Contract-Oriented Programming Language"
-  homepage "http://solidity.readthedocs.org"
-  url "https://github.com/ethereum/solidity/releases/download/v0.6.12/solidity_0.6.12.tar.gz"
-  version "0.6.12"
-  sha256 "214bd37867d59c0f2f22dbaf10fd8eea2a58c9055c853c5016d26ad7091d5776"
+  desc 'The Solidity Contract-Oriented Programming Language'
+  homepage 'http://solidity.readthedocs.org'
+  url 'https://github.com/ethereum/solidity/releases/download/v0.6.12/solidity_0.6.12.tar.gz'
+  version '0.6.12'
+  sha256 '214bd37867d59c0f2f22dbaf10fd8eea2a58c9055c853c5016d26ad7091d5776'
 
-  depends_on "cmake" => :build
-  depends_on "boost" => "c++11"
-  # Note: due to a homebrew limitation, ccache will always be detected and cannot be turned off.
-  depends_on "ccache" => :build
-  depends_on "z3"
+  depends_on 'cmake' => :build
+  depends_on 'boost' => 'c++11'
+  # NOTE: due to a homebrew limitation, ccache will always be detected and cannot be turned off.
+  depends_on 'ccache' => :build
+  depends_on 'z3'
 
   def install
-    system "cmake", ".", *std_cmake_args, "-DTESTS=OFF"
-    system "make", "install"
+    system 'cmake', '.', *std_cmake_args, '-DTESTS=OFF'
+    system 'make', 'install'
   end
 
   test do
-    system "#{bin}/solc", "--version"
+    system "#{bin}/solc", '--version'
   end
 end

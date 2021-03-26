@@ -1,0 +1,442 @@
+commit ef216efc8d14bb7a2e03675d4255f02f0d34a1e7
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Mar 23 14:45:36 2021 +0100
+
+    Solidity 0.8.3
+
+commit 00b6374b63acaffd28d4f9c9546797bd9a9474fd
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Mar 2 18:13:57 2021 +0100
+
+    Solidity 0.8.2
+
+commit ac5c818e36c8c9bfff0bd8626fb212108e9240e8
+Author: chriseth <chris@ethereum.org>
+Date:   Wed Jan 27 15:48:38 2021 +0100
+
+    Solidity 0.8.1
+
+commit 66f32c57ad47a57889815e11750e26cc32b9ea2a
+Author: chriseth <chris@ethereum.org>
+Date:   Wed Dec 16 18:42:58 2020 +0100
+
+    Solidity 0.8.0.
+
+commit 99e56755e078e7601b4c5b373d0c15f0cab947db
+Author: chriseth <chris@ethereum.org>
+Date:   Wed Dec 16 17:15:21 2020 +0100
+
+    Solidity 0.7.6
+
+commit bcc239431982b183cc727bccf70df97852ea0abe
+Author: chriseth <chris@ethereum.org>
+Date:   Wed Nov 18 20:06:01 2020 +0100
+
+    Solidity 0.7.5
+
+commit 08733cf255de5d0a79d211102f26e45707e2c12e
+Author: chriseth <chris@ethereum.org>
+Date:   Mon Oct 19 16:27:21 2020 +0200
+
+    Solidity 0.7.4
+
+commit be3a3da828584fa058739187dfb43c650a6f85c3
+Author: chriseth <chris@ethereum.org>
+Date:   Wed Oct 7 18:56:04 2020 +0200
+
+    Solidity 0.7.3
+
+commit 2617d3626c418fa35f4303a7cd3fc730591cf1dd
+Author: chriseth <chris@ethereum.org>
+Date:   Mon Sep 28 21:51:29 2020 +0200
+
+    Solidity 0.7.2
+
+commit 65bc2f2b7759839d436b40c8dcb2a1fe4fa0070f
+Author: chriseth <chris@ethereum.org>
+Date:   Wed Sep 2 16:30:57 2020 +0200
+
+    Solidity 0.7.1
+
+commit f74ccbe175e5268ce68565c416504da55da2893a
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Jul 28 16:31:47 2020 +0200
+
+    Solidity 0.7.0
+
+commit fcd4bc398a9a9ee2be32291100ca9e1dc75bf2cc
+Author: chriseth <chris@ethereum.org>
+Date:   Wed Jul 22 18:41:02 2020 +0200
+
+    Solidity 0.6.12
+
+commit 04a4fde41372ea8dd396c61af2de0c2458901404
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Jul 7 18:46:57 2020 +0200
+
+    Solidity 0.6.11
+
+commit 06d13a8499801dc3ea4f19b2d24ed2eeb3072ebb
+Author: chriseth <chris@ethereum.org>
+Date:   Thu Jun 11 20:22:25 2020 +0200
+
+    Solidity 0.6.10
+
+commit 6a03909f655e32451201e1d945f55d8fc828b0ef
+Author: chriseth <chris@ethereum.org>
+Date:   Thu Jun 4 18:17:30 2020 +0200
+
+    Solidity 0.6.9.
+
+commit 16b4241f874f75fc0210fefc59de989e94476ae8
+Author: chriseth <chris@ethereum.org>
+Date:   Thu May 14 14:47:56 2020 +0200
+
+    Solidity 0.6.8.
+
+commit 63447e492f6ad0ce0e7edf06cff4cae76765a370
+Author: chriseth <chris@ethereum.org>
+Date:   Mon May 4 17:53:29 2020 +0200
+
+    Solidity 0.6.7
+
+commit de827603ab5095abbe4edce3ef282e783fc352a2
+Author: chriseth <chris@ethereum.org>
+Date:   Thu Apr 9 16:33:48 2020 +0200
+
+    Solidity 0.6.6
+
+commit e0a679f0b0c8505afd1ac7ae6922dd7718a9f5e1
+Author: chriseth <chris@ethereum.org>
+Date:   Mon Apr 6 16:11:09 2020 +0200
+
+    Solidity 0.6.5.
+
+commit 623f56afff5bc0a407a6df74ccd27db5001f7b11
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Mar 10 20:19:39 2020 +0100
+
+    Solidity 0.6.4
+
+commit c71df885e82745069ee900a963b7c475675b1ebe
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Feb 18 21:33:19 2020 +0100
+
+    Version 0.6.3
+
+commit 34a312a4e74fc5ce2324dda413929d84855d822b
+Author: chriseth <chris@ethereum.org>
+Date:   Mon Jan 27 16:41:33 2020 +0100
+
+    Solidity 0.6.2
+
+commit 2b8f601db49dc63304dbc6389050ec8ba91f37ad
+Author: chriseth <chris@ethereum.org>
+Date:   Fri Jan 3 13:20:10 2020 +0100
+
+    Solidity 0.6.1
+
+commit 50d89d24215e47e2e8608211ea73302fe444bfa8
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Dec 17 23:58:00 2019 +0100
+
+    Solidity 0.6.0.
+
+commit 4cc2959fa229a89f0a0b941717eb992455b43112
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Dec 17 20:19:42 2019 +0100
+
+    Solidity 0.5.15.
+
+commit 0e63dd13d32497854ddd07e6f852801d9addd2d5
+Author: chriseth <chris@ethereum.org>
+Date:   Mon Dec 9 18:26:00 2019 +0100
+
+    Update hash.
+
+commit ad07fdbdc24e579a26b06a58571b918193190814
+Author: chriseth <chris@ethereum.org>
+Date:   Mon Dec 9 17:09:03 2019 +0100
+
+    Solidity 0.5.14.
+
+commit a13669cece6afc0fca4d2ffce99232044b0738f2
+Author: chriseth <chris@ethereum.org>
+Date:   Thu Nov 14 18:15:25 2019 +0100
+
+    Update Solidity to 0.5.13
+
+commit 4d13060698e7f0cdac9ec24627b6485122b8f1b6
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Oct 1 22:07:54 2019 +0200
+
+    Solidity 0.5.12
+
+commit 7fa7027f20cca27f76c679d0c5b35ee3c565f284
+Author: chriseth <chris@ethereum.org>
+Date:   Mon Aug 12 23:45:12 2019 +0200
+
+    Version 0.5.11 of Solidity
+
+commit 8ebd4475a4beba6ca514af0bda4e891afec01794
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Jun 25 18:56:50 2019 +0200
+
+    Solidity 0.5.10
+
+commit f5abd8d7a81e58baf6aa899ac186a0d3bb0db7be
+Author: chriseth <chris@ethereum.org>
+Date:   Tue May 28 20:41:48 2019 +0200
+
+    Solidity 0.5.9
+
+commit 3fdee3f4b28df9a62b8d5c89bfce8f1a24553e1a
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Apr 30 18:39:33 2019 +0200
+
+    Version 0.5.8
+
+commit b346d963ce383bbeaf2f4047c65edea0ac860fbf
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Mar 26 14:21:13 2019 +0100
+
+    Solidity 0.5.7
+
+commit 1ecf6c60875740133ee51f6167aef9a4f05986e7
+Author: chriseth <chris@ethereum.org>
+Date:   Wed Mar 13 18:25:43 2019 +0100
+
+    Version 0.5.6
+
+commit 9d22d80c375611a69f78a01190a981968070d3ea
+Author: Erik Kundt <erik@ethereum.org>
+Date:   Tue Mar 5 17:04:12 2019 +0100
+
+    Updates to Solidity 0.5.5.
+
+commit a2645750428cc17b1d9a3c07d8dba798346a385a
+Author: Erik Kundt <erik@ethereum.org>
+Date:   Tue Feb 12 16:52:02 2019 +0100
+
+    Solidity 0.5.4
+
+commit e05aa38c0f26874ec36409a83d1dbf83424552a4
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Jan 22 16:50:27 2019 +0100
+
+    Update Solidity version.
+
+commit 6f1c0da0edf30df83e674c258101dc4d15f580d1
+Author: chriseth <chris@ethereum.org>
+Date:   Wed Dec 19 22:11:08 2018 +0100
+
+    Version 0.5.2
+
+commit be6de9aee95083d3c6ef2e10825001dd63be3e08
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Dec 4 17:45:29 2018 +0100
+
+    Update hash
+    
+    It seems travis ran again and re-uploaded the same file. I checked the archives (still had the old one), only the timestamps are different.
+
+commit 8e6c5a613cd822e92cb5a239f3ef7c8576b60d90
+Author: chriseth <chris@ethereum.org>
+Date:   Mon Dec 3 17:00:30 2018 +0100
+
+    Version 0.5.1
+
+commit 459aa28331a4cd64f26b0872a5f3688223cebf23
+Author: Alex Beregszaszi <alex@rtfs.hu>
+Date:   Tue Nov 13 20:17:00 2018 +0000
+
+    Solidity 0.5.0
+
+commit f26f126820e5f47c3ed7ec6d5e6e046707443d87
+Author: chriseth <chris@ethereum.org>
+Date:   Thu Sep 13 22:18:20 2018 +0200
+
+    Solidity 0.4.25
+
+commit 9599ce8371d9de039988f89ed577460e58a0f56a
+Author: chriseth <chris@ethereum.org>
+Date:   Wed May 16 16:46:12 2018 +0200
+
+    Update Solidity for version 0.4.24
+
+commit 9c1da746bbfc9e60831d37d01436a41f4464f0e1
+Author: chriseth <chris@ethereum.org>
+Date:   Thu Apr 19 23:50:10 2018 +0200
+
+    Update solidity.rb
+
+commit 6fcdddcc601dc213f343dc74b01377df1d301001
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Apr 17 08:57:24 2018 +0200
+
+    Update solidity.rb
+
+commit 3181d3dfc2e17d02f2702baa7c96847e8b4b6875
+Author: Geoffrey Hayes <hayesgm@gmail.com>
+Date:   Tue Mar 27 12:28:22 2018 -0700
+
+    Add ccache as depedency for Solidity
+    
+    Due to a homebrew limitation it will always be detected and cannot be turned off.
+
+commit edb17c86dfd83a8c07854e0b8d66b3cb17e1b027
+Author: Alex Beregszaszi <alex@rtfs.hu>
+Date:   Tue Mar 27 11:11:25 2018 +0100
+
+    Require z3 for solidity
+
+commit 0787f473f716d538aee133c83f4360eb8be5d543
+Author: Alex Beregszaszi <alex@rtfs.hu>
+Date:   Thu Mar 22 01:42:24 2018 +0000
+
+    Make sure ccache is disabled for solidity
+
+commit be8af166429ba38fe3eeb004e5afb3fd7008a790
+Author: Alex Beregszaszi <alex@rtfs.hu>
+Date:   Thu Mar 22 00:29:25 2018 +0000
+
+    Remove obsolete dependencies for solidity
+
+commit ec418fe24e2dcd701f44acbbe50e23ccf733e8d5
+Author: Alex Beregszaszi <alex@rtfs.hu>
+Date:   Thu Mar 22 00:28:39 2018 +0000
+
+    Do not compile tests (they are not installed anyway) for solidity
+
+commit 48fb80e54e8614f39cf34be8896c6ba947bbd1e3
+Author: Alex Beregszaszi <alex@rtfs.hu>
+Date:   Wed Mar 21 20:34:52 2018 +0000
+
+    require(formula) is not required anymore
+
+commit 70314d6cd077d2e6dd466a8932ed93064464737f
+Author: chriseth <chris@ethereum.org>
+Date:   Thu Mar 8 09:49:44 2018 +0100
+
+    Update version to 0.4.21
+
+commit 76432c9aa279b6907e5b1323b9195f2681c30844
+Author: chriseth <chris@ethereum.org>
+Date:   Wed Feb 14 16:30:53 2018 +0100
+
+    Version 0.4.20
+
+commit 799d020069f92d714eb7d3070ff480ab9222c4f8
+Author: chriseth <chris@ethereum.org>
+Date:   Fri Dec 1 14:35:00 2017 +0100
+
+    Version 0.4.19.
+
+commit 2aea171d7d6901b97d5f1f71bd07dd88ed5dfb42
+Author: chriseth <chris@ethereum.org>
+Date:   Wed Oct 18 16:11:02 2017 +0200
+
+    Update solidity version to 0.4.18.
+
+commit 5f4cdb83a82e5214ff9dc67b3f18df4981101d2b
+Author: chriseth <chris@ethereum.org>
+Date:   Fri Sep 22 10:38:25 2017 +0200
+
+    Update Solidity to 0.4.17.
+
+commit 90cc8fe1057a13da252fce66773f53a894940e91
+Author: chriseth <chris@ethereum.org>
+Date:   Thu Aug 24 23:40:30 2017 +0200
+
+    Typo.
+
+commit 22092fef49ef1c7f701db4f69ae28615ecad90a7
+Author: chriseth <chris@ethereum.org>
+Date:   Thu Aug 24 23:39:50 2017 +0200
+
+    Update solidity.rb
+
+commit de1da16f7972a899fc8dd1f3f04299eced6f4312
+Author: chriseth <chris@ethereum.org>
+Date:   Wed Aug 9 11:27:46 2017 +0200
+
+    Update solidity.rb
+
+commit 7d88acbfae0ab3ce55beb514574e1f5edc06200a
+Author: chriseth <chris@ethereum.org>
+Date:   Mon Jul 31 17:26:43 2017 +0200
+
+    Update solidity.rb
+
+commit feb030087dd5cfef843c5d59c466cefbc8d8006c
+Author: Ulrich Petri <ulo@ulo.pe>
+Date:   Mon Jul 17 17:43:21 2017 +0200
+
+    Update solidity formula to 0.4.13
+
+commit 9054056b09cea83e502c596cdc2ae6e0e91ad9a0
+Author: chriseth <chris@ethereum.org>
+Date:   Fri May 5 11:14:41 2017 +0200
+
+    Update hash.
+
+commit 2de22833e3182e68d16ee490e8a62f556a0c5a5f
+Author: Alex Beregszaszi <alex@rtfs.hu>
+Date:   Thu May 4 16:39:23 2017 +0100
+
+    Update to Solidity 0.4.11
+
+commit cf3bef27ebca0b02e8a84587d8189ac4f3b5b652
+Author: chriseth <chris@ethereum.org>
+Date:   Mon Mar 20 12:09:29 2017 +0100
+
+    Fix sha256 sum.
+
+commit b3b820b5f65ca1fa2f923607cb1ad043b36d7e15
+Author: chriseth <c@ethdev.com>
+Date:   Wed Mar 15 18:36:54 2017 +0100
+
+    Solidity update to 0.4.10
+
+commit 8d77bba3c9a682b507d923b336bd61558e25d329
+Author: chriseth <chris@ethereum.org>
+Date:   Tue Jan 31 20:54:25 2017 +0100
+
+    Update to version 0.4.9.
+
+commit 77cce03da9f289e5a3ffe579840d3c5dc0a62717
+Author: chriseth <chris@ethereum.org>
+Date:   Mon Jan 16 12:09:24 2017 +0100
+
+    Changes for 0.4.8
+
+commit f12e86bda923e85b62a88d91ef2e2d3420d6fe6b
+Author: chriseth <c@ethdev.com>
+Date:   Fri Nov 4 10:10:36 2016 +0100
+
+    Solidity version 0.4.4
+
+commit 75684fd6612e51cbaa23c4b15b1692b0afebcad1
+Author: zhangsoledad <787953403@qq.com>
+Date:   Sun Sep 18 16:51:50 2016 +0800
+
+    bump 0.4.2 to solidity
+
+commit b6d66938aded7d57c813a664318e37c1a74936fd
+Author: zhangsoledad <787953403@qq.com>
+Date:   Sun Sep 11 15:49:24 2016 +0800
+
+    bump 0.4.1 to solidity
+
+commit 1e00885690f0da597d9d50990575a8049e1dc552
+Author: Bob Summerwill <bob@summerwill.net>
+Date:   Sat Aug 20 18:32:40 2016 -0700
+
+    Updated Homebrew paths to new repository.
+    Homebrew is currently broken.   This should get it healthier, and we can iterate from there.
+
+commit e87ddd029fd59f1780707cf68435d6fae5420b2c
+Author: Alex Rea <git@area.io>
+Date:   Mon Aug 15 17:22:37 2016 +0100
+
+    Add formula for solidity 0.3.6
